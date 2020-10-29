@@ -1,3 +1,3 @@
-# Responsive GitHub-Clone Coding
+## Responsive GitHub-Clone Coding
 
-# HTML, CSS, JAVASCRIPT
+ HTML, CSS, JAVASCRIPT
